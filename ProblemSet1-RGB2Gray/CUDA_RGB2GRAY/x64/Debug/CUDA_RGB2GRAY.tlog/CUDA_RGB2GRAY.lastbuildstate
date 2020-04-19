@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17763.0
+Debug|x64|D:\CUDA_study\cs344_udacity\Problems\ref\github\udacity-IntroToParallelProgramming\ProblemSet1-RGB2Gray\CUDA_RGB2GRAY\|

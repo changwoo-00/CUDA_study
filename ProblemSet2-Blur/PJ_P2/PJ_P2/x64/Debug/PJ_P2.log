@@ -1,0 +1,7 @@
+﻿  HW2.cpp
+d:\cuda_study\cs344_udacity\problems\ref\github\udacity-introtoparallelprogramming\problemset2-blur\hw2.cpp(107): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+d:\cuda_study\cs344_udacity\problems\ref\github\udacity-introtoparallelprogramming\problemset2-blur\hw2.cpp(107): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+     D:\CUDA_study\cs344_udacity\Problems\ref\github\udacity-IntroToParallelProgramming\ProblemSet2-Blur\PJ_P2\x64\Debug\PJ_P2.lib 라이브러리 및 D:\CUDA_study\cs344_udacity\Problems\ref\github\udacity-IntroToParallelProgramming\ProblemSet2-Blur\PJ_P2\x64\Debug\PJ_P2.exp 개체를 생성하고 있습니다.
+  PJ_P2.vcxproj -> D:\CUDA_study\cs344_udacity\Problems\ref\github\udacity-IntroToParallelProgramming\ProblemSet2-Blur\PJ_P2\x64\Debug\PJ_P2.exe
